@@ -1,0 +1,5 @@
+MJGLApp.service('fwTestService', [function(){
+
+	
+
+}]);
