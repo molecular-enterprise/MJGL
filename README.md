@@ -23,7 +23,7 @@ le cote serveur est celui qui offre des services ) .
 
 ## Les outils necessaires :
 
-* NetBeans et Apache Tomcat - Il vous faut installer NetBeans et par la meme occasion installer la version d'apache tomcat qui va avec .
+* NetBeans 8.2 et Apache Tomcat 8.0.27 - Il vous faut installer , de preference , cette version de NetBeans et par la meme occasion la version d'apache tomcat qui va avec .
 * Sublime-text - Pour l'ecriture du code Html, css et Javascript ( bien que l'on ne l'a pas utilise pour cette premiere version ) .
 
 ## Autres choses a savoir :
