@@ -1,4 +1,4 @@
-# MJGL ( Molecular Java GuideLine )
+# MJGL ( Molecular Java GuideLine ) ~ Version 0.1.0
 
 Un projet tout recemment concu et developpe par Molecular .
 
