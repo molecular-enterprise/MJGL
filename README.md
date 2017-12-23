@@ -12,7 +12,7 @@ quelques notions de servlets , AngularJS , et qui se base sur le pattern MVC et 
 MJGL , bien que pas encore tres mature , a le merite ( comme son nom l'indique ) d'offrir une ligne directrice
 a tout developpeur sur comment on doit travailler , quelle methode de travail suivre . MJGL est aussi bon du fait qu'il integre une
 architecture de web service et qui n'est donc pas restreint a un seul type de technologie ( cote client bien evidemment puisque
-le cote serveur est celui qui offre des services ) .
+le cote serveur est en Java ) .
 
 ## Ce qu'il vous faut avant d'essayer MJGL :
 
